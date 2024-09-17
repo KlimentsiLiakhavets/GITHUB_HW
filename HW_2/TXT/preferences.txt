@@ -1,5 +1,0 @@
-favorit_movie   	Leon
-favorit_TV_serial   	The_fathers_rus
-favorit_food		Sandwich
-favorit_time_of_year	Summer
-the_country_you_would_like_to_visit	USA
